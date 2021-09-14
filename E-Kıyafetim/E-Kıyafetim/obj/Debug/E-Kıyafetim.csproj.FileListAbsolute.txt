@@ -1,0 +1,9 @@
+c:\users\busra\onedrive\belgeler\visual studio 2015\Projects\E-Kıyafetim\E-Kıyafetim\bin\Debug\E-Kıyafetim.exe.config
+c:\users\busra\onedrive\belgeler\visual studio 2015\Projects\E-Kıyafetim\E-Kıyafetim\bin\Debug\E-Kıyafetim.exe
+c:\users\busra\onedrive\belgeler\visual studio 2015\Projects\E-Kıyafetim\E-Kıyafetim\bin\Debug\E-Kıyafetim.pdb
+c:\users\busra\onedrive\belgeler\visual studio 2015\Projects\E-Kıyafetim\E-Kıyafetim\obj\Debug\E-Kıyafetim.csprojResolveAssemblyReference.cache
+c:\users\busra\onedrive\belgeler\visual studio 2015\Projects\E-Kıyafetim\E-Kıyafetim\obj\Debug\E_Kıyafetim.Form1.resources
+c:\users\busra\onedrive\belgeler\visual studio 2015\Projects\E-Kıyafetim\E-Kıyafetim\obj\Debug\E_Kıyafetim.Properties.Resources.resources
+c:\users\busra\onedrive\belgeler\visual studio 2015\Projects\E-Kıyafetim\E-Kıyafetim\obj\Debug\E-Kıyafetim.csproj.GenerateResource.Cache
+c:\users\busra\onedrive\belgeler\visual studio 2015\Projects\E-Kıyafetim\E-Kıyafetim\obj\Debug\E-Kıyafetim.exe
+c:\users\busra\onedrive\belgeler\visual studio 2015\Projects\E-Kıyafetim\E-Kıyafetim\obj\Debug\E-Kıyafetim.pdb
